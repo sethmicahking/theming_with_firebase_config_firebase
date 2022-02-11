@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../midwife_firebase/.idea/midwife_firebase.iml" filepath="$PROJECT_DIR$/../midwife_firebase/.idea/midwife_firebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/theming_with_firebase_config_firebase.iml" filepath="$PROJECT_DIR$/.idea/theming_with_firebase_config_firebase.iml" />
+    </modules>
+  </component>
+</project>
